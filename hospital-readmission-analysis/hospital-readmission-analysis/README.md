@@ -6,9 +6,8 @@ Ever wonder what happens when a patient gets sent home from the hospital and end
 
 I also built an interactive dashboard in Power BI where you can filter by condition and state.
 
-![Dashboard](images/HR Dashboard.png)
+![Dashboard](images/HR%20Dashboard.png)
 
-![Excess readmissions by condition](images/excess_by_condition.png)
 
 ## The data
 
