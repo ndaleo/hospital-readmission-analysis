@@ -1,0 +1,7 @@
+condition,hospitals,avg_readmit_rate,pct_worse,excess_readmissions
+Heart Failure,2621,19.4,48.9,4856.0
+Pneumonia,2715,15.6,46.8,4525.0
+Heart Attack,1736,13.4,49.7,1130.0
+COPD,2323,18.0,47.2,1072.0
+Bypass Surgery,878,10.7,49.9,341.0
+Hip/Knee Replacement,1447,5.5,47.9,321.0
