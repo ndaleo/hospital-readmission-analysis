@@ -2,6 +2,12 @@
 
 Ever wonder what happens when a patient gets sent home from the hospital and ends up right back there a couple weeks later? It's bad for the patient, and it also costs the hospital money, because Medicare cuts payments to hospitals that have more readmissions than they should. So I wanted to find out which conditions, states, and hospitals have the biggest readmission problem.
 
+## Power BI Dashboard
+
+I also built an interactive dashboard in Power BI where you can filter by condition and state.
+
+![Dashboard](images/HR Dashboard.png)
+
 ![Excess readmissions by condition](images/excess_by_condition.png)
 
 ## The data
